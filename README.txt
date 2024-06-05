@@ -1,3 +1,9 @@
+No License required to install and use the schemas in Oracle Database.
+Thanks to Oracle for that!
+
+Hope you`ll enjoy and explore Oracle Database and Oracle SQL Developer.
+
+
 -- Link for Oracle DB 21c XE download and install guide
 -- https://www.oracle.com/database/technologies/appdev/xe.html
 
